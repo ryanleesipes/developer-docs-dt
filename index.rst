@@ -6,4 +6,5 @@ Thunderbird Developer Documentation
   :maxdepth: 1
   :caption: Contents:
 
+  layout
   runningTests
