@@ -54,6 +54,8 @@ you're going to have more than one test.
 
   [default]
 
+  [test_firstTest.js]
+
 browser.ini (Mochitest manifest)
 --------------------------------
 
@@ -74,8 +76,6 @@ Mochitest needs some prefs set, or automated testing will fail.
   subsuite = thunderbird
 
   [browser_firstTest.js]
-
-  [test_firstTest.js]
 
 Linking to manifests
 --------------------
