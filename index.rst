@@ -8,3 +8,4 @@ Thunderbird Developer Documentation
 
   layout
   runningTests
+  addingTests
