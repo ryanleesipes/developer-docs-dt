@@ -41,7 +41,8 @@ A new directory needs some standard files: an ESLint configuration file if the d
     "rules": {
       // If you want to name your test functions, which can be useful.
       "func-names": "off",
-      // Automatically import globals from any head file, just ignore that this is set to "error". ;-)
+      // Automatically import globals from any head file,
+      // just ignore that this is set to "error". ;-)
       "mozilla/import-headjs-globals": "error",
     },
   };
